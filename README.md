@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
 
 - The motivation for this project was to create a study guide for ASU coding bootcamp students so we could have easy access to terminology all on a single webpage
 - I built this project to organize the information given in earlier moduels so its easy to read and study. 
